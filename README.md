@@ -1,7 +1,7 @@
 ## Database-payroll-reporting
 
 ### Mock Payroll Processing & Month-end Report Generation
-For CPRG-307 Database Programming
+Part of CPRG-307 Database Programming
 
 
 - Reads from Oracle 12c Database
