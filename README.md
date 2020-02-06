@@ -14,6 +14,9 @@ Part of CPRG-307 Database Programming
 1. Java Database Connectivity (JDBC)
 2. PL/SQL Programming
 3. Oracle 12c Database
+4. Database Triggers
+5. Database Functions
+6. Database Procedures
 
 
 ### Tools Used: 
