@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/DatabaseAssignment2/src"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/OneDrive - Southern Alberta Institute of Technology/Year 2-elf8it221470/Database Prog/Assignments/ojdbc8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
