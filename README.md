@@ -6,7 +6,7 @@ Part of CPRG-307 Database Programming
 
 - Reads from Oracle 12c Database
 - Processing payroll transactions
-- Maintaining transaction/database integrity
+- Maintaining transaction/database integrity using a Double Entry Accounting method
 - Authentication + Permissions check with database
 
 
